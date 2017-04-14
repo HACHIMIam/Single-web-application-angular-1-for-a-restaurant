@@ -4,9 +4,11 @@ this project is a single web application for a restaurant linked to a json-serve
 
 # Topics include:
 
-automaticing some tasks with gulp (jshint ,uglify,usemin .....) single web application Handling HTTP requests with ngresource and ui-route post users feedbacks to the server
+- automaticing some tasks with gulp (jshint ,uglify,usemin .....) 
+- single web application Handling HTTP requests with ngresource and ui-route 
+- post users feedbacks to the server
 
- # Instructions:
+# Instructions:
 
 Make sure you have these installed npm git bower fist of all you shoud create a json server in a directory name it json server and put the <db.json> file in this directory after cloning the project in the project directory write those commandes line
 
